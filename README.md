@@ -18,7 +18,7 @@ A API permite cadastrar, listar, buscar, atualizar e excluir produtos através d
 ### 1. Clonar o repositório
 
 ```bash
-git clone LINK_DO_REPOSITORIO
+git clone https://github.com/Heloizabreu/API-ComBancoDedadosNaoRelacional.git
 ```
 
 Entre na pasta do projeto:
